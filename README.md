@@ -1,4 +1,4 @@
-# PROMPTS.md
+# Agents.md
 
 > **The field guide to AI context files** — the small set of Markdown documents that quietly decide who your agent is, what it knows, what it can do, and how it behaves.
 
