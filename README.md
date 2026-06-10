@@ -57,12 +57,12 @@ The four canonical files map cleanly onto four questions any capable agent must 
 Stacked together they form what you can think of as a **personality package**: a portable bundle that turns a generic model into *your* agent. None of these names is enforced by any runtime — you could call them `IDENTITY.md` or `agent.config.md` — but using the common names means your files are instantly legible to other people and other tools.
 
 ```
-        ┌─────────────────────────────────────┐
+        ┌-------------------------------------─┐
         │  SOUL.md     →  who I am             │  most stable
         │  MEMORY.md   →  what I know          │      ▲
         │  SKILLS.md   →  what I can do        │      │
         │  CLAUDE.md   →  how I work here      │  most specific
-        └─────────────────────────────────────┘
+        └--------------------------------------┘
 ```
 
 ---
